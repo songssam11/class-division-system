@@ -1,0 +1,25 @@
+# 실제 학생 데이터 파일 (절대 업로드 금지!)
+*학생*.xlsx
+*학생*.xls  
+*명단*.xlsx
+*명단*.xls
+실제*.csv
+실제*.xlsx
+
+# 단, 템플릿과 샘플은 허용
+!학생명단_입력템플릿.xlsx
+!sample_students.csv
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.temp
+~$*.xlsx
+~$*.xls
+
+# 백업 파일
+*.bak
+*.backup
